@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 1. 顶部动态打字机标题 -->
+<!-- 1. 顶部标题 -->
 <div align="center">
   <a href="[https://github.com/why-lec](https://github.com/why-lec)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+YourName;Robotics+%26+Embedded+Systems+Developer;Exploring+Human-Machine+Interfaces](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+YourName;Robotics+%26+Embedded+Systems+Developer;Exploring+Human-Machine+Interfaces)" alt="Typing SVG" />
+    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.plbpc0k8SMgSSf9OaurZmQHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="chiziru" />
   </a>
 </div>
 
