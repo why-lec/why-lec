@@ -16,22 +16,16 @@ Here are some ideas to get you started:
 -->
 <!-- 1. 顶部标题 -->
 <div align="center">
-  <a href="[https://github.com/why-lec](https://github.com/why-lec)">
+  <a href="https://github.com/why-lec">
     <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.plbpc0k8SMgSSf9OaurZmQHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="chiziru" />
   </a>
 </div>
 
 <!-- 2. 社交与联系方式徽章 -->
 <div align="center">
-  <a href="mailto:why-lec@sjtu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://why-lec.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
+  <a href="mailto:why-lec@sjtu.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://why-lec.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </div>
 
 <br/>
