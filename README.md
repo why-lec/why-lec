@@ -36,17 +36,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- 3. 左文右图布局：右侧放语言占比卡片，左侧写简介 -->
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 ### About Me
-
-- 🔭 **当前聚焦**：机器人控制算法、嵌入式开发与多模态信号处理
+-   **教育经历**：上海交通大学ME大三在读
+- 🔭 **当前聚焦**：机器人控制算法、与多模态信号处理
 - 🛠️ **常用工具**：Python / C++ / ROS2 / Linux / SolidWorks
 - 🌱 **正在深入**：具身智能（Embodied AI）与实时传感器融合
-- ⚡ **座右铭**：*First principles, clean code, and solid mechanics.*
 
-<br clear="right"/>
+
 
 ---
 
@@ -78,6 +76,7 @@ Here are some ideas to get you started:
   <summary><b>📌 点击展开近期重点项目与研究经历</b></summary>
   <br/>
   <ul>
+    <li><b>力反馈视触觉遥操系统</b></li>
     <li><b>多模态动态手势识别系统</b>：结合表面肌电（sEMG）与空间运动捕捉数据，构建端到端动作解码管线。</li>
     <li><b>四轮主动调平底盘设计</b>：基于四连杆复合悬架结构完成运动学建模与控制器设计。</li>
   </ul>
