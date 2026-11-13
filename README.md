@@ -55,12 +55,8 @@ Here are some ideas to get you started:
 
 <!-- 5. 明暗主题自适应的综合数据卡片 -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true" />
-  </picture>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true" />
+
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
