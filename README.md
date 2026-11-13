@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="mailto:your.email@example.com">
     <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
   </a>
-  <a href="[https://你的用户名.github.io](https://你的用户名.github.io)">
+  <a href="[https://why-lec.github.io](https://why-lec.github.io)">
     <img src="[https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)" />
   </a>
   <a href="[https://scholar.google.com](https://scholar.google.com)">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- 3. 左文右图布局：右侧放语言占比卡片，左侧写简介 -->
-<img align="right" width="42%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true)" />
+<img align="right" width="42%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true)" />
 
 ### About Me
 
@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 <!-- 5. 明暗主题自适应的综合数据卡片 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true)" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default&hide_border=true)" />
-    <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true)" />
+    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true)" />
+    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true)" />
+    <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true)" />
   </picture>
-  <img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight&hide_border=true)" />
+  <img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true)" />
 </div>
 
 <br/>
