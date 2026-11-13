@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 
 <!-- 2. 社交与联系方式徽章 -->
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
+  <a href="mailto:why-lec@sjtu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://why-lec.github.io](https://why-lec.github.io)">
-    <img src="[https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)" />
+  <a href="https://why-lec.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="[https://scholar.google.com](https://scholar.google.com)">
-    <img src="[https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)" />
+  <a href="https://scholar.google.com">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <!-- 3. 左文右图布局：右侧放语言占比卡片，左侧写简介 -->
-<img align="right" width="42%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true)" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-lec&layout=compact&theme=tokyonight&hide_border=true" />
 
 ### About Me
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!-- 4. 整齐的技术栈图标墙（支持自由增删图标名称） -->
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=python,cpp,c,ros,linux,ubuntu,pytorch,opencv,cmake,git,vscode&perline=11](https://skillicons.dev/icons?i=python,cpp,c,ros,linux,ubuntu,pytorch,opencv,cmake,git,vscode&perline=11)" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ros,linux,ubuntu,pytorch,opencv,cmake,git,vscode&perline=11" />
 </div>
 
 ---
@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 <!-- 5. 明暗主题自适应的综合数据卡片 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true)" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true)" />
-    <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=default&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=why-lec&show_icons=true&theme=tokyonight&hide_border=true" />
   </picture>
-  <img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true)" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=why-lec&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
